@@ -1,6 +1,6 @@
 # 🌴 제주데이터허브 AI 멀티모달(CLIP) 이미지 검색 시스템
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jeju-datahub-image-search.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jeju-dataapp-web-mw5rfqx8eitsz6kylopf9e.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

@@ -332,7 +332,7 @@ def main():
 
         st.markdown("---")
         st.subheader("📱 스마트폰 접속 QR")
-        default_app_url = "https://jeju-datahub-image-search.streamlit.app"
+        default_app_url = "https://jeju-dataapp-web-mw5rfqx8eitsz6kylopf9e.streamlit.app/"
         app_url_input = st.text_input(
             "배포 URL (스마트폰 접속용)",
             value=default_app_url,
