@@ -47,7 +47,7 @@ st.markdown("""
 <style>
     /* 전체 여백 및 폰트 */
     .block-container {
-        padding-top: 1.5rem;
+        padding-top: 4.8rem !important;
         padding-bottom: 3rem;
         max-width: 1440px;
     }
@@ -58,14 +58,14 @@ st.markdown("""
     .header-title {
         font-size: 2.3rem;
         font-weight: 800;
-        background: linear-gradient(120deg, #1A365D, #2B6CB0);
+        background: linear-gradient(120deg, #2B6CB0, #63B3ED);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         margin-bottom: 0.35rem;
         letter-spacing: -0.5px;
     }
     .header-desc {
-        color: #718096;
+        color: #A0AEC0;
         font-size: 1.05rem;
     }
     /* 카드 디자인 */
